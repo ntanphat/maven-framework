@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run on Firefox"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0,055">
+  <properties />
+  
+  
+            <testcase name="TC01" time="0,055" classname="com.demo.Topic_09_Faker" />
+      
+</testsuite>

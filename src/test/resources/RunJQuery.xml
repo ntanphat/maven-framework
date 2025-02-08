@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="DataTable - DataGrid">
+	
+	<test name="Run on Firefox">
+	<parameter name="browser" value="firefox"/>
+	<parameter name="url" value="https://blueimp.github.io/jQuery-File-Upload/"/>
+		<classes>
+			<class name="com.jquery.upload.Level_14_Upload_File" />
+		</classes>
+	</test>
+	
+</suite> <!-- Suite -->
