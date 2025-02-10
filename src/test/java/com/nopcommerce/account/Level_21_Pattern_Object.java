@@ -137,7 +137,6 @@ public class Level_21_Pattern_Object extends BaseTest {
 		Assert.assertEquals(customerPage.getTextboxAttributeValueByID("FirstName"), "Felix");
 		Assert.assertEquals(customerPage.getTextboxAttributeValueByID("LastName"), "Nguyen");
 		Assert.assertEquals(customerPage.getTextboxAttributeValueByID("Email"), emailAddress);
-
 	}
 
 	@AfterClass
