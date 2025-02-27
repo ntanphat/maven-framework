@@ -2,6 +2,7 @@ package com.demo;
 
 import com.github.javafaker.Faker;
 import org.testng.annotations.Test;
+import testdata.PaymentObject;
 
 import java.util.Locale;
 
@@ -17,5 +18,7 @@ public class Topic_09_Faker {
         System.out.println(faker.address().streetAddress());
         System.out.println(faker.internet().emailAddress());
         System.out.println(faker.phoneNumber().cellPhone());
+
+        System.out.println(PaymentObject.BillingAddress.COUNTRY);
     }
 }

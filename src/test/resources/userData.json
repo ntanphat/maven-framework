@@ -1,0 +1,15 @@
+{
+  "firstname" : "Tan Phat",
+  "lastname" : "Nguyen",
+  "dob" : "01/01/1994",
+  "email" : "abc@gmail.com",
+  "address" : "123 DHT",
+  "cc" : {
+    "number" : "9999-9999-9999-9999",
+    "billing" : "123 zzz"
+  },
+  "product" : {
+    "searchCriteria" : "criteria"
+  },
+  "password" : "1223455"
+}

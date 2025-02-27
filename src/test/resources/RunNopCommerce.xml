@@ -15,7 +15,7 @@
 <!--            <class name="com.nopcommerce.account.Level_18_Extent_V5"/>-->
 <!--        </classes>-->
         <classes>
-            <class name="com.demo.Topic_09_Faker_Net"></class>
+            <class name="com.demo.Level_28_Data_JSON"></class>
         </classes>
     </test>
 
