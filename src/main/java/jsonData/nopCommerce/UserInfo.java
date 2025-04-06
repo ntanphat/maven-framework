@@ -47,4 +47,16 @@ public class UserInfo {
     public String getFirstName() {
         return firstName;
     }
+
+    @JsonProperty("visa")
+    private Visa visa;
+
+    static class Visa{
+        @JsonProperty("number")
+        String number;
+    }
+
+    public String getNumber(){
+        return visa.number;
+    }
 }

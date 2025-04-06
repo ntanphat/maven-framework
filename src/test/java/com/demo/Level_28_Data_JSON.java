@@ -12,5 +12,6 @@ public class Level_28_Data_JSON {
         System.out.println(userInfo.getLastName());
         System.out.println(userInfo.getEmail());
         System.out.println(userInfo.getPassword());
+        System.out.println(userInfo.getNumber());
     }
 }

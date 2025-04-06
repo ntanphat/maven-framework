@@ -4,7 +4,7 @@
   "dob" : "01/01/1994",
   "email" : "abc@gmail.com",
   "address" : "123 DHT",
-  "cc" : {
+  "visa" : {
     "number" : "9999-9999-9999-9999",
     "billing" : "123 zzz"
   },
